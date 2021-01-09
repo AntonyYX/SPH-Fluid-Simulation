@@ -3,9 +3,9 @@ This project has only been tested on Windows x64.
 
 
 ## Packages Used
-Eigen 3.3.9
-GLEW 1.11.0
-freeglut 3.0.0 MSVC
+1. Eigen 3.3.9
+2. GLEW 1.11.0
+3. freeglut 3.0.0 MSVC
 
 Here is link for downloading all three packages(if needed):
 https://drive.google.com/file/d/1cxuKjSe_X8A9R-9-Qy8t38qDZNr-q79O/view?usp=sharing
@@ -30,6 +30,7 @@ In /SPH_FluidSimulation/src/main.cpp
 1. Under "rendering hyperparameters", there are parameters related to the window size and particle sizes
 2. Under "initialization hyperparameters", there are parameters that indicate the postion and number of particles generated
 3. Under "physics hyperparameters", there are physics related parameters that affect the simulation
+
 
 ## Video Link
 https://youtu.be/loLEcJlnGzI
